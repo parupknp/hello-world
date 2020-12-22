@@ -5,5 +5,5 @@ class Car {
 	console.log(this.name,this.year)
   }
 }
+let myCar1 = new car("Ford", 2014);
 module.exports=Car;
-//let myCar1 = new car("Ford", 2014);
