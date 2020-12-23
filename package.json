@@ -1,0 +1,22 @@
+{
+  "name": "newgitproj",
+  "version": "1.0.0",
+  "description": "New package",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parupknp/hello-world.git"
+  },
+  "author": "Parvathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parupknp/hello-world/issues"
+  },
+  "homepage": "https://github.com/parupknp/hello-world#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
