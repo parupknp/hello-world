@@ -1,4 +1,6 @@
-var Car=require('./Car.js');
+var fs=require('fs')
+
+//var Car=require('./Car.js');
 const x = (x, y) => { var z=x*y; console.log(z); return z};
 
 //x(2,5)
